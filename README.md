@@ -2,7 +2,8 @@
 Latihan 1: Menampilkan n Bilangan Acak yang Lebih Kecil dari 0.5
 
 Python Code↓
-import random
+
+Import random
 
 # Meminta input jumlah bilangan acak
 n = int(input("Masukkan jumlah bilangan acak yang ingin ditampilkan: "))
