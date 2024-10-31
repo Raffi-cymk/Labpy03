@@ -38,6 +38,10 @@ Alur Algoritma:
 
 Latihan 2: Menghitung Total Keuntungan Selama 8 Bulan
 
+
+![](<Flowchart Latihan 2.png>)
+
+
 Python Code↓
 # Inisialisasi modal awal dan keuntungan total
 modal_awal = 100000000
