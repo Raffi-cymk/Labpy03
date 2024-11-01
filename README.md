@@ -39,7 +39,7 @@ Alur Algoritma:
 Latihan 2: Menghitung Total Keuntungan Selama 8 Bulan
 
 
-
+![](<Kalkulasi Keuntungan 8 Bulan.png>)
 
 
 Python Code↓
@@ -86,6 +86,10 @@ Bulan ke-8: Keuntungan 3%.
 ---
 
 Latihan 3: Simulasi Mesin ATM Sederhana
+
+
+![](<Flowchart ATM Program.png>)
+
 
 Python Code↓
 # Inisialisasi saldo awal
