@@ -2,7 +2,6 @@
 Latihan 1: Menampilkan n Bilangan Acak yang Lebih Kecil dari 0.5
 
 
-![](<Flowchart Latihan 1.png>)
 
 
 Python Code↓
@@ -39,7 +38,7 @@ Alur Algoritma:
 Latihan 2: Menghitung Total Keuntungan Selama 8 Bulan
 
 
-![](<Flowchart Latihan 2.png>)
+
 
 
 Python Code↓
