@@ -1,7 +1,8 @@
 # Labpy03
 Latihan 1: Menampilkan n Bilangan Acak yang Lebih Kecil dari 0.5
 
-![](<Random Number_0.5_.png>)
+
+![](<Random Number _ 0.5_.png>)
 
 
 Python Code↓
